@@ -1,4 +1,4 @@
-# Calc X
+# Calculator X challenge
 
 ## My solution - Live version link
   https://rami24t.github.io/browser-modules-imports-exports-Rami24t/
